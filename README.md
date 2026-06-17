@@ -4,6 +4,29 @@ A personal repository focused on learning C#, .NET, and modern software developm
 
 This repository contains experiments, exercises, concept demonstrations, and small projects created while learning the C# ecosystem.
 
+## Progress
+
+### Core C#
+- [ ] Classes & Objects
+- [ ] OOP (Inheritance, Polymorphism, Interfaces, Abstract Classes)
+
+### Collections & Language Features
+- [ ] Collections
+- [ ] Generics
+- [ ] Delegates & Events
+- [ ] LINQ
+
+### Modern C#
+- [ ] Async & Await
+- [ ] File I/O
+- [ ] JSON Serialization
+
+### .NET Development
+- [ ] Databases
+- [ ] ASP.NET
+- [ ] REST APIs
+- [ ] Avalonia
+
 ## Goals
 
 - Learn modern C#
